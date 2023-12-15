@@ -6,7 +6,7 @@ The RMxprt module, a 12/8 1500 rpm motor is modelled, which is shown in the foll
 To decrease the simulation time the model is simplified to a quarter of its original size. The magnetic field, and magnetic flux in a random time step is shown in the following figures:
 ![A](https://github.com/Ahsnazari/FEM-model-switched-reluctance-motor/assets/118515566/9a3a084b-f690-47dd-82e3-e24edea2d884)
 ![B](https://github.com/Ahsnazari/FEM-model-switched-reluctance-motor/assets/118515566/2a294100-0f6b-45d7-a583-52aefe1fc27f)
-Then, the simulation is repeated in three steps with different number of conductors. The simulation results for linkage flux, phase A to A inductance, induced voltage, winding currents, and torque are as followed.
+Then, the simulation is repeated in three steps with different number of conductors. The simulation results for linkage flux, phase A to A inductance, induced voltage, winding currents, and torque in one cycle are as followed.
 ![linkage flux](https://github.com/Ahsnazari/FEM-model-switched-reluctance-motor/assets/118515566/2be465ae-7a02-451a-8a96-f953dc32210c)
 ![inductance](https://github.com/Ahsnazari/FEM-model-switched-reluctance-motor/assets/118515566/6083aa22-5cad-4659-9005-744f3fd5fd1c)
 
